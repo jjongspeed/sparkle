@@ -46,25 +46,25 @@
       "#FF57CA"
     ],
     "ANDROID_NAVIGATION_SCRIM_BACKGROUND": [
-      "#FF7ACE"
+      "#000000"
     ],
     "CHAT_BACKGROUND": [
-      "#FF7ACE"
+      "#000000"
     ],
     "BACKGROUND_MOBILE_PRIMARY": [
-      "#FF7ACE"
+      "#000000"
     ],
     "BACKGROUND_PRIMARY": [
-      "#FF7ACE"
+      "#000000"
     ],
     "BG_BASE_PRIMARY": [
-      "#FF7ACE"
+      "#000000"
     ],
     "HOME_BACKGROUND": [
-      "#FF7ACE"
+      "#000000"
     ],
     "STATUS_DANGER_TEXT": [
-      "#FF7ACE"
+      "#000000"
     ],
     "BACKGROUND_FLOATING": [
       "#FF8FC5"
@@ -266,13 +266,13 @@
     "PRIMARY_730": "#FF57CA",
     "ROLE_DEFAULT": "#FF57CA",
     "WHITE_630": "#FF57CA",
-    "PLUM_17": "#FF7ACE",
-    "PLUM_20": "#FF7ACE",
-    "PLUM_24": "#FF7ACE",
-    "PLUM_25": "#FF7ACE",
-    "PRIMARY_600": "#FF7ACE",
-    "PRIMARY_DARK_700": "#FF7ACE",
-    "PRIMARY_DARK_800": "#FF7ACE",
+    "PLUM_17": "#000000",
+    "PLUM_20": "#000000",
+    "PLUM_24": "#000000",
+    "PLUM_25": "#000000",
+    "PRIMARY_600": "#000000",
+    "PRIMARY_DARK_700": "#000000",
+    "PRIMARY_DARK_800": "#000000",
     "PLUM_16": "#FF8FC5",
     "PLUM_19": "#FF8FC5",
     "PLUM_21": "#FF8FC5",
